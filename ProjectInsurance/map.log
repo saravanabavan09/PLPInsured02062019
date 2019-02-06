@@ -1,0 +1,126 @@
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-ERROR-com.cg.project.dao.ProjectDaoImpl:ORA-12899: value too large for column "SYSTEM"."CLAIM"."ACCIDENT_CITY" (actual: 17, maximum: 15)
+
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-04-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-04-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-ERROR-com.cg.project.dao.ProjectDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007292) violated - parent key not found
+
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-ERROR-com.cg.project.dao.ProjectDaoImpl:ORA-02291: integrity constraint (SYSTEM.SYS_C007292) violated - parent key not found
+
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ProjectDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ProjectDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.ClaimDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.ClaimDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.ClaimDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.ClaimDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.CRSDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.CRSDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.CRSDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.CRSDaoImpl:execute update called
+2019-02-05-main-INFO -com.cg.project.dao.CRSDaoImpl:in add Customer method
+2019-02-05-main-INFO -com.cg.project.dao.CRSDaoImpl:connection object created
+2019-02-05-main-DEBUG-com.cg.project.dao.CRSDaoImpl:statement object created
+2019-02-05-main-INFO -com.cg.project.dao.CRSDaoImpl:execute update called
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:in add Customer method
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:connection object created
+2019-02-06-main-DEBUG-com.cg.project.dao.CRSDaoImpl:statement object created
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:execute update called
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:in add Customer method
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:connection object created
+2019-02-06-main-DEBUG-com.cg.project.dao.CRSDaoImpl:statement object created
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:execute update called
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:in add Customer method
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:connection object created
+2019-02-06-main-DEBUG-com.cg.project.dao.CRSDaoImpl:statement object created
+2019-02-06-main-INFO -com.cg.project.dao.CRSDaoImpl:execute update called
