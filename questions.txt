@@ -1,0 +1,84 @@
+SQL> select * from claim_questions;
+
+CLAIM_QUES CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                                                          CLAIM_QUES_ANS1                CLAIM_QUES_ANS1_WEIGHTAGE
+---------- -------------- ---------- -------------------------------------------------------------------------------- ------------------------------ ----------------------
+---
+CLAIM_QUES_ANS2                CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3                CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4                CLAIM_QUES_ANS4_WEIGHTAGE
+------------------------------ ------------------------- ------------------------------ ------------------------- ------------------------------ -------------------------
+1001                10000 Buss_Auto  Claim Amount Reimbursement?                                              25%                                                   30
+50%                                                   60 75%                                                80 100%                                                    100
+
+1003                10001 Buss_Auto  Do you have desired Bills?                                               Yes                                                  100
+No                                                    10 Not Sure                                           50 Other                                             0
+
+1004                 1002 Buss_Auto  Paid Insurance Amounts On Time?                                          Yes                                                  100
+No                                                    10 Not Sure                                           50 Other                                             0
+
+
+CLAIM_QUES CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                                                          CLAIM_QUES_ANS1                CLAIM_QUES_ANS1_WEIGHTAGE
+---------- -------------- ---------- -------------------------------------------------------------------------------- ------------------------------ ----------------------
+---
+CLAIM_QUES_ANS2                CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3                CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4                CLAIM_QUES_ANS4_WEIGHTAGE
+------------------------------ ------------------------- ------------------------------ ------------------------- ------------------------------ -------------------------
+1005                10003 Buss_Auto  Applied FIR?                                                             Yes                                                  100
+No                                                    10 Not Sure                                           50 Other                                             0
+
+1006                10001 Res        Claim Amount Reimbursement?                                              25%                                                   30
+50%                                                   60 75%                                                80 100%                                                    100
+
+1007                10002 Res        Do you have desired Bills?                                               Yes                                                  100
+No                                                    10 Not Sure                                           50 Other                                             0
+
+
+CLAIM_QUES CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                                                          CLAIM_QUES_ANS1                CLAIM_QUES_ANS1_WEIGHTAGE
+---------- -------------- ---------- -------------------------------------------------------------------------------- ------------------------------ ----------------------
+---
+CLAIM_QUES_ANS2                CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3                CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4                CLAIM_QUES_ANS4_WEIGHTAGE
+------------------------------ ------------------------- ------------------------------ ------------------------- ------------------------------ -------------------------
+1008                10003 Res        Paid Insurance Amounts On Time?                                          Yes                                                  100
+No                                                    10 Not Sure                                           50 Other                                             0
+
+1009                10004 Res        Applied FIR?                                                             Yes                                                  100
+No                                                    10 Not Sure                                           50 Other                                             0
+
+1010                 1001 Apt        claim amount to be reimbursed for Apt?                                   25%                                                  100
+50%                                                  200 75%                                               300 100%                                                    400
+
+
+CLAIM_QUES CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                                                          CLAIM_QUES_ANS1                CLAIM_QUES_ANS1_WEIGHTAGE
+---------- -------------- ---------- -------------------------------------------------------------------------------- ------------------------------ ----------------------
+---
+CLAIM_QUES_ANS2                CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3                CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4                CLAIM_QUES_ANS4_WEIGHTAGE
+------------------------------ ------------------------- ------------------------------ ------------------------- ------------------------------ -------------------------
+1011                 1002 Apt        Do you have desired bill for Apt?                                        YES                                                  100
+NO                                                     0 NOT SURE                                           50 OTHER                                            25
+
+1012                 1003 Apt        Paid Insurance on time for Apt?                                          YES                                                  100
+NO                                                     0 NOT SURE                                           50 OTHER                                            25
+
+1013                 1004 Apt        Applied FIR for Apt?                                                     YES                                                  100
+NO                                                     0 NOT SURE                                           50 OTHER                                            25
+
+
+CLAIM_QUES CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                                                          CLAIM_QUES_ANS1                CLAIM_QUES_ANS1_WEIGHTAGE
+---------- -------------- ---------- -------------------------------------------------------------------------------- ------------------------------ ----------------------
+---
+CLAIM_QUES_ANS2                CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3                CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4                CLAIM_QUES_ANS4_WEIGHTAGE
+------------------------------ ------------------------- ------------------------------ ------------------------- ------------------------------ -------------------------
+1017                 1004 Gnrl_Mrcht Applied FIR for Apt?                                                     YES                                                  100
+NO                                                     0 NOT SURE                                           50 OTHER                                            25
+
+1016                 1003 Gnrl_Mrcht Paid Insurance on time for Apt?                                          YES                                                  100
+NO                                                     0 NOT SURE                                           50 OTHER                                            25
+
+1015                 1002 Gnrl_Mrcht Do you have desired bill for Apt?                                        YES                                                  100
+NO                                                     0 NOT SURE                                           50 OTHER                                            25
+
+
+CLAIM_QUES CLAIM_QUES_SEQ BUS_SEG_ID CLAIM_QUES_DESC                                                          CLAIM_QUES_ANS1                CLAIM_QUES_ANS1_WEIGHTAGE
+---------- -------------- ---------- -------------------------------------------------------------------------------- ------------------------------ ----------------------
+---
+CLAIM_QUES_ANS2                CLAIM_QUES_ANS2_WEIGHTAGE CLAIM_QUES_ANS3                CLAIM_QUES_ANS3_WEIGHTAGE CLAIM_QUES_ANS4                CLAIM_QUES_ANS4_WEIGHTAGE
+------------------------------ ------------------------- ------------------------------ ------------------------- ------------------------------ -------------------------
+1014                 1001 Gnrl_Mrcht claim amount to be reimbursed for Apt?                                   25%                                                  100
+50%                                                  200 75%                                               300 100%                                                    400
